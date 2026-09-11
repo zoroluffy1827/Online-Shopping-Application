@@ -3,3 +3,4 @@ NoteBook| 50 | 100
 Book | 100 | 200
 Pen | 20 |2000
 Tote Bage | 2000 | 2000
+iphone 18 | 2000 | 2000
